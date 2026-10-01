@@ -7,7 +7,7 @@ function Experiencia() {
         <iframe
           width="100%"
           height="315"
-          src="https://www.youtube.com/embed/VIDEO_ID_AQUI"
+          src="https://youtu.be/4oshjzjGC7w"
           title="Experiencia Personal"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
