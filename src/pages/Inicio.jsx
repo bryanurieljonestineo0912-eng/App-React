@@ -7,7 +7,7 @@ function Inicio() {
       <img src={foto} alt="Foto 2x2" className="foto-perfil" />
       <p><b>Nombre:</b> Bryan</p>
       <p><b>Apellido:</b> Jones Tineo</p>
-      <p><b>Correo:</b> bryan.jones@ejemplo.com</p>
+      <p><b>Correo:</b> bryanurieljonestineo0912@gmail.com</p>
     </div>
   )
 }
